@@ -2,6 +2,9 @@
 
 /**
  * main - prints putchar
+ * @void: Empty parameter list for main.
+ *
+ * Description: Prints putchar w/out stdio
  *
  * Return: always 0
  */
