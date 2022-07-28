@@ -1,2 +1,1 @@
-# alx-low_level_programming
-c programming
+This is a alx-low level_programming
